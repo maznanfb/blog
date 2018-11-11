@@ -1,14 +1,14 @@
-baseURL = "http://example.com/"
+baseURL = "https://maznanfb.com/"
 languageCode = "en-us"
-title = "Minimal"
+title = "maznanfb.com"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
+disqusShortname = "maznanfb" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
+    author = "Aznan Firmansyah"
+    description = "Aznan Firmanyah's Personal Blog"
+    githubUsername = "maznanfb"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
@@ -37,17 +37,17 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:muh.aznan@gmail.com"
     name = "envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/maznanfb/"
     name = "github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
+    url = "https://twitter.com/dreamynase/"
     name = "twitter"
     weight = 3
 
@@ -55,8 +55,3 @@ googleAnalytics = ""
     url = "https://www.linkedin.com/in/username/"
     name = "linkedin"
     weight = 4
-
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5

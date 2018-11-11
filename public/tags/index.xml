@@ -1,148 +1,220 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Minimal</title>
-    <link>http://example.com/tags/</link>
-    <description>Recent content in Tags on Minimal</description>
+    <title>Tags on maznanfb.com</title>
+    <link>https://maznanfb.com/tags/</link>
+    <description>Recent content in Tags on maznanfb.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maznanfb.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bootstrap</title>
-      <link>http://example.com/tags/bootstrap/</link>
+      <link>https://maznanfb.com/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/bootstrap/</guid>
+      <guid>https://maznanfb.com/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Css</title>
-      <link>http://example.com/tags/css/</link>
+      <link>https://maznanfb.com/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/css/</guid>
+      <guid>https://maznanfb.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://example.com/tags/development/</link>
+      <link>https://maznanfb.com/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/development/</guid>
+      <guid>https://maznanfb.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>https://maznanfb.com/tags/english/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foreign</title>
+      <link>https://maznanfb.com/tags/foreign/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/foreign/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://example.com/tags/go/</link>
+      <link>https://maznanfb.com/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/go/</guid>
+      <guid>https://maznanfb.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://example.com/tags/golang/</link>
+      <link>https://maznanfb.com/tags/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/golang/</guid>
+      <guid>https://maznanfb.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highlight Js</title>
-      <link>http://example.com/tags/highlight-js/</link>
+      <link>https://maznanfb.com/tags/highlight-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/highlight-js/</guid>
+      <guid>https://maznanfb.com/tags/highlight-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Html</title>
-      <link>http://example.com/tags/html/</link>
+      <link>https://maznanfb.com/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/html/</guid>
+      <guid>https://maznanfb.com/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://example.com/tags/hugo/</link>
+      <link>https://maznanfb.com/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/hugo/</guid>
+      <guid>https://maznanfb.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>http://example.com/tags/jekyll/</link>
+      <link>https://maznanfb.com/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/jekyll/</guid>
+      <guid>https://maznanfb.com/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Js</title>
-      <link>http://example.com/tags/js/</link>
+      <link>https://maznanfb.com/tags/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/js/</guid>
+      <guid>https://maznanfb.com/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karyawan</title>
+      <link>https://maznanfb.com/tags/karyawan/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/karyawan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kerja</title>
+      <link>https://maznanfb.com/tags/kerja/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/kerja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>https://maznanfb.com/tags/language/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>https://maznanfb.com/tags/leadership/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn</title>
+      <link>https://maznanfb.com/tags/learn/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/learn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Responsive</title>
-      <link>http://example.com/tags/responsive/</link>
+      <link>https://maznanfb.com/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/responsive/</guid>
+      <guid>https://maznanfb.com/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Static Site Generator</title>
-      <link>http://example.com/tags/static-site-generator/</link>
+      <link>https://maznanfb.com/tags/static-site-generator/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/static-site-generator/</guid>
+      <guid>https://maznanfb.com/tags/static-site-generator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://example.com/tags/syntax-highlighting/</link>
+      <link>https://maznanfb.com/tags/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/syntax-highlighting/</guid>
+      <guid>https://maznanfb.com/tags/syntax-highlighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teknologi</title>
+      <link>https://maznanfb.com/tags/teknologi/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/teknologi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Template</title>
-      <link>http://example.com/tags/template/</link>
+      <link>https://maznanfb.com/tags/template/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/template/</guid>
+      <guid>https://maznanfb.com/tags/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>http://example.com/tags/themes/</link>
+      <link>https://maznanfb.com/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/themes/</guid>
+      <guid>https://maznanfb.com/tags/themes/</guid>
       <description></description>
     </item>
     

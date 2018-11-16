@@ -1,0 +1,16 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div class="intro">
+        {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
+        <h1>m<strong style="color: red">aznan</strong>fb</h1>
+		<img src="line.gif" width="70%">
+
+        <h2>{{ markdownify .Site.Params.Description }}</h2>
+
+    </div>
+
+</main>
+
+{{ partial "footer" . }}

@@ -1,220 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on maznanfb.com</title>
+    <title>Tags on maznanfb</title>
     <link>https://maznanfb.com/tags/</link>
-    <description>Recent content in Tags on maznanfb.com</description>
+    <description>Recent content in Tags on maznanfb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://maznanfb.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bootstrap</title>
-      <link>https://maznanfb.com/tags/bootstrap/</link>
+      <title>Application</title>
+      <link>https://maznanfb.com/tags/application/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maznanfb.com/tags/bootstrap/</guid>
+      <guid>https://maznanfb.com/tags/application/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Css</title>
-      <link>https://maznanfb.com/tags/css/</link>
+      <title>Artifisial Intelegence</title>
+      <link>https://maznanfb.com/tags/artifisial-intelegence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maznanfb.com/tags/css/</guid>
+      <guid>https://maznanfb.com/tags/artifisial-intelegence/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Development</title>
-      <link>https://maznanfb.com/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>https://maznanfb.com/tags/english/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Foreign</title>
-      <link>https://maznanfb.com/tags/foreign/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/foreign/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://maznanfb.com/tags/go/</link>
+      <title>Blog</title>
+      <link>https://maznanfb.com/tags/blog/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://maznanfb.com/tags/go/</guid>
+      <guid>https://maznanfb.com/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>https://maznanfb.com/tags/golang/</link>
+      <title>Machine Learning</title>
+      <link>https://maznanfb.com/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://maznanfb.com/tags/programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://maznanfb.com/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://maznanfb.com/tags/website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://maznanfb.com/tags/welcome/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://maznanfb.com/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Highlight Js</title>
-      <link>https://maznanfb.com/tags/highlight-js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/highlight-js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Html</title>
-      <link>https://maznanfb.com/tags/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://maznanfb.com/tags/hugo/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>https://maznanfb.com/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Js</title>
-      <link>https://maznanfb.com/tags/js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Karyawan</title>
-      <link>https://maznanfb.com/tags/karyawan/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/karyawan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kerja</title>
-      <link>https://maznanfb.com/tags/kerja/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/kerja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Language</title>
-      <link>https://maznanfb.com/tags/language/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leadership</title>
-      <link>https://maznanfb.com/tags/leadership/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/leadership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learn</title>
-      <link>https://maznanfb.com/tags/learn/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/learn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Responsive</title>
-      <link>https://maznanfb.com/tags/responsive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/responsive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Static Site Generator</title>
-      <link>https://maznanfb.com/tags/static-site-generator/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/static-site-generator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>https://maznanfb.com/tags/syntax-highlighting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/syntax-highlighting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teknologi</title>
-      <link>https://maznanfb.com/tags/teknologi/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/teknologi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Template</title>
-      <link>https://maznanfb.com/tags/template/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/template/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>https://maznanfb.com/tags/themes/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/themes/</guid>
+      <guid>https://maznanfb.com/tags/welcome/</guid>
       <description></description>
     </item>
     

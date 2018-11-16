@@ -3,34 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://maznanfb.com/project/project1/</loc>
+    <loc>https://maznanfb.com/project/konsultan-osn.com/</loc>
   </url>
   
   <url>
-    <loc>https://maznanfb.com/project/project2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/project/project3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/project/project4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/post/berinvestasilah/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/post/menjadi_karyawan/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/post/english_training/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+    <loc>https://maznanfb.com/project/chatbot-python/</loc>
   </url>
   
   <url>
@@ -39,27 +16,18 @@
   </url>
   
   <url>
-    <loc>https://maznanfb.com/post/creating-a-new-theme/</loc>
+    <loc>https://maznanfb.com/tags/application/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maznanfb.com/tags/artifisial-intelegence/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maznanfb.com/tags/blog/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/bootstrap/</loc>
     <priority>0</priority>
   </url>
   
@@ -69,100 +37,18 @@
   </url>
   
   <url>
-    <loc>https://maznanfb.com/tags/css/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/english/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/foreign/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/go/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/highlight-js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/html/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/karyawan/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/kerja/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/language/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/leadership/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/learn/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+    <loc>https://maznanfb.com/tags/machine-learning/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://maznanfb.com/post/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maznanfb.com/tags/programming/</loc>
     <priority>0</priority>
   </url>
   
@@ -172,48 +58,30 @@
   </url>
   
   <url>
-    <loc>https://maznanfb.com/tags/responsive/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/static-site-generator/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/syntax-highlighting/</loc>
+    <loc>https://maznanfb.com/tags/python/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://maznanfb.com/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://maznanfb.com/tags/teknologi/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+    <loc>https://maznanfb.com/tags/website/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://maznanfb.com/tags/template/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/themes/</loc>
+    <loc>https://maznanfb.com/tags/welcome/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://maznanfb.com/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

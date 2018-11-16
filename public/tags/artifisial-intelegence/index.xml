@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artifisial Intelegence on maznanfb</title>
+    <link>https://maznanfb.com/tags/artifisial-intelegence/</link>
+    <description>Recent content in Artifisial Intelegence on maznanfb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://maznanfb.com/tags/artifisial-intelegence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ChatBot Menggunakan Python</title>
+      <link>https://maznanfb.com/project/chatbot-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/project/chatbot-python/</guid>
+      <description>Intro Machine Learning adalah teknologi yang sedang booming akhir-akhir ini. Seiring dengan perkembangan sistem informasi, data pun menjadi hal yang sangat berharga. Dengan data perusahaan yang tidak punya aset fisik sekali pun dapat menjual perusahaannya dengan harga yang fantastik. Inilah yang kerap terjadi pada perusahaan start-up. Ini akan menjadi hal yang sangat menarik sekaligus ancaman bagi bisnis-bisnis konvensional yang lengah dengan perkembangan teknologi.
+Konfigurasi  python 3.6 jupyter notebook library nltk data set nltk  Program Sederhana import nltk import numpy as np import random import string # to process standard python strings from sklearn.</description>
+    </item>
+    
+  </channel>
+</rss>

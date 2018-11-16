@@ -2,7 +2,7 @@
 title: "Berinvestasilah!"
 date: 2018-10-02
 tags: ["karyawan", "kerja", "teknologi", "leadership"]
-draft: false
+draft: true
 ---
 
 ## Intro

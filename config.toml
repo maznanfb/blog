@@ -1,9 +1,10 @@
 baseURL = "https://maznanfb.com/"
 languageCode = "en-us"
-title = "maznanfb.com"
-theme = "minimal"
+title = "maznanfb"
+theme = "simpleblog"
 disqusShortname = "maznanfb" # delete this to disable disqus comments
-googleAnalytics = ""
+googleAnalytics = "UA-74408604-4"
+staticDir = ["static"]
 
 [params]
     author = "Aznan Firmansyah"
@@ -12,10 +13,12 @@ googleAnalytics = ""
     accent = "red"
     showBorder = true
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    font = "Niramit" # should match the name on Google Fonts!
     highlight = true
-    highlightStyle = "solarized-dark"
+    highlightStyle = "monokai"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    profilePic = "logo.jpg"
+    favicon = "icon.png"
 
 [[menu.main]]
     url = "/"
@@ -52,6 +55,15 @@ googleAnalytics = ""
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
+    url = "https://www.linkedin.com/in/aznanfirmansyah/"
     name = "linkedin"
     weight = 4
+
+[[menu.icon]]
+    url = "https://www.facebook.com/profile.php?id=1625386996"
+    name = "facebook"
+    weight = 5
+[[menu.icon]]
+    url = "https://www.instagram.com/maznanfb/"
+    name = "instagram"
+    weight = 6

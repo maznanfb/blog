@@ -4,11 +4,14 @@
 name = "simpleblog"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = "Personal blog theme powered by Hugo"
+description = "Personal blog"
 homepage = "http://maznanfb.com/"
 tags = ["blog", "personal", "responsive"]
+author = "aznan"
 features = ["responsive"]
 min_version = "0.10"
+categories =["general"]
+
 
 [author]
   name = "aznan"

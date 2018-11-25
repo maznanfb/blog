@@ -2,10 +2,10 @@
 title: "Indonesia Cendekia"
 <!-- date: 2018-08-02 -->
 description: "Web application which provide computer base test and other additional features"
-<!-- url: "https://konsultan-osn.com" # delete this line if you want blog-like posts for projects -->
 tags: ["website", "application", "programming"]
 weight: 1
 draft: false
+image: /img/konsultanosn1.png
 ---
 ## Description
 

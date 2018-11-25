@@ -76,6 +76,7 @@ a:hover {
 
 .item-tag {
     background-color: var(--accent);
+    font-weight: bold;
 }
 
 /*navigation bar icons*/
@@ -97,4 +98,23 @@ footer {
 
 img {
     max-width: 100%;
+
+}
+
+.with-bg-size {
+  background-image: url('/img/maznanfb.png');
+  padding-right: 10px;
+  border-radius: 25px;
+  width: 100px;
+  height: 100px;
+  background-position: center;
+  /* Make the background image cover the area of the <div>, and clip the excess */
+  background-size: cover;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
 }

@@ -4,7 +4,10 @@
          
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>maznanfb</title>
+        <meta name="description" content="Aznan Firmansyah's Personal Blog, Journal, and Portfolio. The contents may not important for you, unless you want to stalking me. Trust me, you will not get my bad here. :D">
+        
+        <title>Aznan's Personal Blog</title>
+        
         
         <link rel="icon" href="https://maznanfb.com/icon.png">
         
@@ -68,16 +71,24 @@
         <link href="https://maznanfb.com/index.xml" rel="alternate" type="application/rss+xml" title="maznanfb" />
         <link href="https://maznanfb.com/index.xml" rel="feed" type="application/rss+xml" title="maznanfb" />
         
-
+        
         
         
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74408604-4"></script>
         <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments)};
-          gtag('js', new Date());
+            if (window.location.hostname === "localhost")
+            {
+                console.log("local bro");
+            }
+            else
+            {
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments)};
+                gtag('js', new Date());
 
-          gtag('config', 'UA-74408604-4');
+                gtag('config', 'UA-74408604-4');
+            }
+          
         </script>
         
     </head>
@@ -145,11 +156,11 @@
 
         </nav>
 
+        
 
 <main>
 
     <div class="intro">
-
          <img class="profile" src="logo.jpg"> 
         <h1>m<strong style="color: red">aznan</strong>fb</h1>
 		<img src="line.gif" width="70%">

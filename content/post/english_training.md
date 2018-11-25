@@ -3,6 +3,7 @@ title: "Start Learning English!"
 date: 2018-10-02
 tags: ["english", "learn", "foreign", "language"]
 draft: true
+readingTime: 1
 ---
 
 ## Intro

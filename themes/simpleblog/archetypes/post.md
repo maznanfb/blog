@@ -1,6 +1,7 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}josh"
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{dateFormat "2006-01-02" .Date}}
 tags: []
+readingTime: 1
 draft: true
 ---

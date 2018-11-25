@@ -1,0 +1,28 @@
+{{ partial "header" . }}
+<h2>{{ .Title }}</h2>
+
+<main class="content" role="main">
+    <div class="inner" align="left">
+        {{ range (.Site.RegularPages.GroupByDate "2006") }}
+        	{{ if ne .Key "0001" }}
+            <h3 class="archive-year">{{ .Key }}</h3>
+			{{ end }}
+            <ul class="archive-list" >
+                {{ range (where .Pages "Type" "post") }}
+                    <li>
+                        {{ .PublishDate.Format "02 Jan" }}
+                        - 
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a> 
+                        <div >
+                            {{ range .Params.tags }}
+                            <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}"><kbd class="item-tag">{{ . }}</kbd></a>
+                            {{ end }}
+                        </div>
+                    </li>
+                {{ end }}
+            </ul>
+        {{ end }}
+    </div>
+</main>
+
+{{ partial "footer" . }}

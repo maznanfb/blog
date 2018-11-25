@@ -5,6 +5,7 @@ theme = "simpleblog"
 disqusShortname = "maznanfb" # delete this to disable disqus comments
 googleAnalytics = "UA-74408604-4"
 staticDir = ["static"]
+enableEmoji = true
 
 [params]
     author = "Aznan Firmansyah"
@@ -19,6 +20,7 @@ staticDir = ["static"]
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     profilePic = "logo.jpg"
     favicon = "icon.png"
+
 
 [[menu.main]]
     url = "/"

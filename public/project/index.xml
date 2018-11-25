@@ -30,5 +30,26 @@ There are three types of question, such as: single choise, short answer, and ess
 Konfigurasi  python 3.6 jupyter notebook library nltk data set nltk  Program Sederhana import nltk import numpy as np import random import string # to process standard python strings from sklearn.</description>
     </item>
     
+    <item>
+      <title>Creating a Bike Speedometer with GreenPAK and a Magnetic Sensor</title>
+      <link>https://maznanfb.com/project/bike-speedometer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/project/bike-speedometer/</guid>
+      <description>this writting, have published on Dialog Semiconductor website:
+https://www.dialog-semiconductor.com/AN-CM-249
+Introduction The main goal of this application is the measurement result of rotating object, such as speed of bicycle wheel. The system should have ability to interpret measurement result to be international unit of speed, namely meters per second. To realize this system, we will attach a sensor device on the bicycle. And then, our design by using some logical operation, will update the output periodically or simultaneously to interpret measurement result using 4 until 6 binary number and have precision up to 1 m/s.</description>
+    </item>
+    
+    <item>
+      <title>Servo Overload Protection</title>
+      <link>https://maznanfb.com/project/servo-overload-protector/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/project/servo-overload-protector/</guid>
+      <description>this writting, have published on Dialog Semiconductor website:
+https://www.dialog-semiconductor.com/AN-CM-247</description>
+    </item>
+    
   </channel>
 </rss>

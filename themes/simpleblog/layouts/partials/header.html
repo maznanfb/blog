@@ -4,7 +4,12 @@
         {{ partial "head-open" . }}
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Aznan Firmansyah's Personal Blog, Journal, and Portfolio. The contents may not important for you, unless you want to stalking me. Trust me, you will not get my bad here. :D">
+        {{ if eq .Title "maznanfb" }}
+        <title>Aznan's Personal Blog</title>
+        {{ else }}
         <title>{{ .Title }}</title>
+        {{ end }}
         {{ if .Site.Params.favicon }}
         <link rel="icon" href="{{ .Site.Params.favicon | absURL }}">
         {{ end }}
@@ -13,16 +18,24 @@
         <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
         <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
         {{ end }}
-
+        
         {{ if .Site.GoogleAnalytics }}
         <!-- Global Site Tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
         <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments)};
-          gtag('js', new Date());
+            if (window.location.hostname === "localhost")
+            {
+                console.log("local bro");
+            }
+            else
+            {
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments)};
+                gtag('js', new Date());
 
-          gtag('config', '{{ .Site.GoogleAnalytics }}');
+                gtag('config', '{{ .Site.GoogleAnalytics }}');
+            }
+          
         </script>
         {{ end }}
     </head>

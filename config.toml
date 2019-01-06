@@ -17,7 +17,7 @@ enableEmoji = true
     font = "Niramit" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "monokai"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightLanguages = ["go", "python", "cpp", "scala", "swift"]
     profilePic = "logo.jpg"
     favicon = "icon.png"
 

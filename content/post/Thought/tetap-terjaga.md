@@ -2,9 +2,7 @@
 title: "Tetap Terjaga"
 date: 2018-09-03
 tags: ["renungan"]
-categories: ["alamak"]
 draft: false
-markup: md
 readingTime: 3
 ---
 

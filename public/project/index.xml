@@ -21,16 +21,6 @@ There are three types of question, such as: single choise, short answer, and ess
     </item>
     
     <item>
-      <title>ChatBot Menggunakan Python</title>
-      <link>https://maznanfb.com/project/chatbot-python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/project/chatbot-python/</guid>
-      <description>Intro Machine Learning adalah teknologi yang sedang booming akhir-akhir ini. Seiring dengan perkembangan sistem informasi, data pun menjadi hal yang sangat berharga. Dengan data perusahaan yang tidak punya aset fisik sekali pun dapat menjual perusahaannya dengan harga yang fantastik. Inilah yang kerap terjadi pada perusahaan start-up. Ini akan menjadi hal yang sangat menarik sekaligus ancaman bagi bisnis-bisnis konvensional yang lengah dengan perkembangan teknologi.
-Konfigurasi  python 3.6 jupyter notebook library nltk data set nltk  Program Sederhana import nltk import numpy as np import random import string # to process standard python strings from sklearn.</description>
-    </item>
-    
-    <item>
       <title>Creating a Bike Speedometer with GreenPAK and a Magnetic Sensor</title>
       <link>https://maznanfb.com/project/bike-speedometer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://maznanfb.com/project/konsultan-osn.com/</loc>
-  </url>
-  
-  <url>
     <loc>https://maznanfb.com/project/bike-speedometer/</loc>
   </url>
   
@@ -127,11 +123,6 @@
   <url>
     <loc>https://maznanfb.com/tags/agama/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/application/</loc>
     <priority>0</priority>
   </url>
   
@@ -265,11 +256,6 @@
   </url>
   
   <url>
-    <loc>https://maznanfb.com/tags/programming/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://maznanfb.com/project/</loc>
     <priority>0</priority>
   </url>
@@ -328,11 +314,6 @@
   <url>
     <loc>https://maznanfb.com/tags/thought/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/website/</loc>
     <priority>0</priority>
   </url>
   

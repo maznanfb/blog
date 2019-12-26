@@ -8,7 +8,7 @@
         {{ if eq .Title "maznanfb" }}
         <title>Aznan's Personal Blog</title>
         {{ else }}
-        <title>{{ .Title }}</title>
+        <title>maznanfb | {{ .Title }}</title>
         {{ end }}
         {{ if .Site.Params.favicon }}
         <link rel="icon" href="{{ .Site.Params.favicon | absURL }}">
@@ -55,8 +55,8 @@
 
                 <div class="navbar-header">
 
-                    <a class="navbar-brand visible-xs" href="#">{{ .Title }}</a>
-
+                    <a class="navbar-brand visible-xs" style="font-size: 1em;" href="/">m<strong style="color: red">aznan</strong>fb</a>
+                    <!-- <div style="font-size: 1em;">m<strong style="color: red">aznan</strong>fb</div> -->
                     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>

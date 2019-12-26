@@ -52,12 +52,12 @@ enableEmoji = true
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/dreamynase/"
+    url = "https://twitter.com/maznanfb/"
     name = "twitter"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/aznanfirmansyah/"
+    url = "https://www.linkedin.com/in/maznanfb/"
     name = "linkedin"
     weight = 4
 
